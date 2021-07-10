@@ -4,7 +4,7 @@ The goal here is a practical explanation of how a US citizen can invest money wi
 
 This document will offer a starting point to resolve those obstacles with highly concrete suggestions for investment. It will explore how individuals can personalize their distribution of investments along the spectrum of low to high risk. A number of general guidelines are also provided for how to structure your investments in the context of other aspects of personal finance. At the end is a list of important vocabulary with links. This document doesn’t contain all the information needed to start investing, so the list is intended to provide an idea of the concepts you should understand before you start.
 
-* Introduction to index funds
+* [Introduction to index funds](https://github.com/investindex/Index)
 * Thinking about risk
 * Guidelines for financial planning
 * Building a stock portfolio

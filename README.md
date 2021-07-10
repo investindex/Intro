@@ -6,12 +6,12 @@ This document will offer a starting point to resolve those obstacles with highly
 
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
-* Guidelines for financial planning
-* Building a stock portfolio
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Funds)
-* Summary
-* Concerns for the small investor
-* Concerns for the large investor
-* Practical information for execution
-* Taxes
-* Vocabulary and further resources
+* [Summary](https://github.com/investindex/Summary)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)

@@ -9,7 +9,7 @@ This document will offer a starting point to resolve those obstacles with highly
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Funds)
-* [Summary](https://github.com/investindex/Summary)
+* [Summary of funds](https://github.com/investindex/Summary)
 * [Concerns for the small investor](https://github.com/investindex/Small)
 * [Concerns for the large investor](https://github.com/investindex/Large)
 * [Practical information for execution](https://github.com/investindex/Practical)

@@ -7,3 +7,11 @@ This document will offer a starting point to resolve those obstacles with highly
 * Introduction to index funds
 * Thinking about risk
 * Guidelines for financial planning
+* Building a stock portfolio
+* [Fund proposals](https://github.com/investindex/Funds)
+* Summary
+* Concerns for the small investor
+* Concerns for the large investor
+* Practical information for execution
+* Taxes
+* Vocabulary and further resources

@@ -12,14 +12,14 @@ This document will offer a starting point to resolve those obstacles with highly
 
 All sections:
 
-* [Cover page](https://github.com/investindex/Intro)
-* [Introduction to index funds](https://github.com/investindex/Index)
-* [Thinking about risk](https://github.com/investindex/Risk)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
-* [Building a stock portfolio](https://github.com/investindex/Portfolio)
-* [Fund proposals](https://github.com/investindex/Funds)
-* [Concerns for the small investor](https://github.com/investindex/Small)
-* [Concerns for the large investor](https://github.com/investindex/Large)
-* [Practical information for execution](https://github.com/investindex/Practical)
-* [Taxes](https://github.com/investindex/Taxes)
-* [Vocabulary and further resources](https://github.com/investindex/Vocab)
+* [Cover page](https://github.com/investindex/Intro) - you are here
+* [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing
+* [Thinking about risk](https://github.com/investindex/Risk) - the risks and rewards of various types of investment
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general financial topics as well as specific math for retirement planning
+* [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock market index funds
+* [Fund proposals](https://github.com/investindex/Funds) - specific portfolio suggestions
+* [Concerns for the small investor](https://github.com/investindex/Small) - advice particularly for small investors
+* [Concerns for the large investor](https://github.com/investindex/Large) - advice particularly for large investors
+* [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
+* [Taxes](https://github.com/investindex/Taxes) - I'm sorry, but yes this is part of it
+* [Vocabulary and further resources](https://github.com/investindex/Vocab) - it's still not over? no sorry

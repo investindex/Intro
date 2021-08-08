@@ -24,4 +24,4 @@ All sections:
 * [Concerns for the large investor](https://github.com/investindex/Large) - advice particularly for large investors
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
 * [Taxes](https://github.com/investindex/Taxes) - I'm sorry, but yes this is part of it
-* [Vocabulary and further resources](https://github.com/investindex/Vocab) - it's still not over? sorry no
+* [Vocabulary and further resources](https://github.com/investindex/Vocab) - it's still not over? no, but we're here to help

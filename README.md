@@ -16,8 +16,8 @@ All sections:
 
 * [Cover page](https://github.com/investindex/Intro) - you are here
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing
-* [Thinking about risk](https://github.com/investindex/Risk) - risks and rewards of various types of investment + an overview of retirement planning
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general financial topics + specific math for retirement planning
+* [Thinking about risk](https://github.com/investindex/Risk) - risks and rewards of various types of investment
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general financial topics and retirement planning
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock market index funds
 * [Fund proposals](https://github.com/investindex/Funds) - specific portfolio suggestions
 * [Concerns for the small investor](https://github.com/investindex/Small) - advice particularly for small investors

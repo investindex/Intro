@@ -8,7 +8,7 @@ This document will offer a starting point to resolve those obstacles with highly
 
 Before you begin reading, you may want to start with some introductory material.
 
-[This series of short videos](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1&ab_channel=PreetBanerjee) slowly introduces the basic concepts of investing and assumes zero prior knowledge. I've created a YouTube playlist of the videos at that link. (Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.)
+[This series of ten short videos](https://www.youtube.com/watch?v=Arz_9WX-pn0&list=PLENfNwrAryOiK4QF3Ot8PZdZ-Vcx07HAP&index=1&ab_channel=PreetBanerjee) slowly introduces the basic concepts of investing and assumes zero prior knowledge. I've created a YouTube playlist of the videos at that link. (Videos 9 and 12 are skipped deliberately, because they contain descriptions that don't apply to the investment vehicles in this guide.)
 
 [This video](https://www.youtube.com/watch?v=we_7F5N3ByQ&ab_channel=BreakingBadDebt) is a great explanation of the principles of financial markets and the approach to investing that will be applied here. Even those with some knowledge about investing will benefit from the discussion.
 

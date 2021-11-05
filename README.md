@@ -12,7 +12,7 @@ Before you begin reading, you may want to start with some introductory material.
 
 [This video](https://www.youtube.com/watch?v=we_7F5N3ByQ&ab_channel=BreakingBadDebt) is a great explanation of the principles of financial markets and the approach to investing that will be applied here. Even those with some knowledge about investing will benefit from the discussion.
 
-Many hyperlinks to accessible resources are included to make it easy to learn more than is presented in the text. You may want to click on them as you read.
+Throughout the guide, many hyperlinks to accessible resources are included to make it easy to learn more than is presented in the text. You may want to click on them as you read.
 
 &nbsp;
 

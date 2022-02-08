@@ -26,7 +26,8 @@ All sections:
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing
 * [Thinking about risk](https://github.com/investindex/Risk) - risks and rewards of various types of investment
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general financial topics and retirement planning
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general personal finance and investing topics
+* [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock market index funds
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions
 * [Concerns for the small investor](https://github.com/investindex/Small) - advice particularly for small investors
@@ -34,3 +35,5 @@ All sections:
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
 * [Taxes](https://github.com/investindex/Taxes) - I'm sorry, but yes this is part of it
 * [Vocabulary and further resources](https://github.com/investindex/Vocab) - everything else
+
+&nbsp;

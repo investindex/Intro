@@ -24,7 +24,7 @@ All sections:
 
 * [Cover page](https://github.com/investindex/Intro) - you are here
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing
-* [Thinking about risk](https://github.com/investindex/Risk) - risks and rewards of various types of investment
+* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general personal finance and investing topics
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning

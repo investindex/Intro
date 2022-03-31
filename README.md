@@ -35,6 +35,6 @@ All sections:
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
 * [Taxes](https://github.com/investindex/Taxes) - I'm sorry, but yes this is part of it
 * [Vocabulary and further resources](https://github.com/investindex/Vocab) - everything else
-* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basic
+* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics
 
 &nbsp;

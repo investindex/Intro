@@ -33,8 +33,8 @@ All sections:
 * [Concerns for the small investor](https://github.com/investindex/Small) - advice particularly for small investors
 * [Concerns for the large investor](https://github.com/investindex/Large) - advice particularly for large investors
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
-* [Taxes](https://github.com/investindex/Taxes) - I'm sorry, but yes this is part of it
-* [Vocabulary and further resources](https://github.com/investindex/Vocab) - everything else
+* [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to use tax-advantaged accounts
+* [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know
 * [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics
 
 &nbsp;

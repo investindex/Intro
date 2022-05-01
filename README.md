@@ -38,3 +38,36 @@ All sections:
 * [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics
 
 &nbsp;
+
+<!--
+Note for author on periodic updates needed in each section:
+
+Weekly
+Apple market cap - Index
+Costco market cap - Index
+Apple/Costco allocation in S&P 500 - Index
+Apple share price - Index
+SEC yields of VUSB and USHY - Risk
+ILTB and TLT drawdown since Aug 6/Aug 4 2020 - Risk
+AGG drawdown since Aug 6 2020 under “prediction machines” header - Risk
+
+Monthly to Semi-annually
+US Treasury savings bond variable and fixed rates (October and April) - Risk
+S&P index market cap thresholds (changed one or a few times per year) - Portfolio
+FTSE index allocation to US, DM, EM under “Implementation” header - Portfolio
+
+Annually
+Footnote 2 with SPIVA reports, which are published every March - Index
+Plot of “US Stock and Bond Returns in Calendar Years 2000-2021” - Risk
+Names of large bond issuers (Microsoft, Bank of America, Boeing) - Risk
+Contribution limits under subheader “529 accounts, contribution limits, and charity” - Guidelines
+Value vs. growth in 2022 - Portfolio
+Potentially use Ken French library to update Ben Felix’s whitepaper - Portfolio
+Potentially update 2012-2021 returns, cited as 16% - Portfolio
+Check all expense ratios - Fund
+“VTI’s 4,100 stocks” under “Tax loss harvesting” header - Taxes
+Hyperlink from “highly similar” to VTI/SCHX returns up to present, will become outdated in 2023 (so will other PV links that are supposed to extend to present day) - Taxes
+Many 2022 tax numbers in “Essentials” and “Tax-advantaged accounts”, plus the two graphics - Taxes
+“RMDs up to $100K” is linked to inflation I think, so it may change - Taxes
+Threshold for condition (b) under “Estimated tax payments” header, although I don’t think it’s linked to inflation - Taxes
+-->

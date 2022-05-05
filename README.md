@@ -66,8 +66,9 @@ Potentially use Ken French library to update Ben Felix’s whitepaper - Portfoli
 Potentially update 2012-2021 returns, cited as 16% - Portfolio
 Check all expense ratios - Fund
 “VTI’s 4,100 stocks” under “Tax loss harvesting” header - Taxes
-Hyperlink from “highly similar” to VTI/SCHX returns up to present, will become outdated in 2023 (so will other PV links that are supposed to extend to present day) - Taxes
+Hyperlink from “highly similar” to VTI/SCHX returns up to present, will become outdated in 2023 - Taxes
 Many 2022 tax numbers in “Essentials” and “Tax-advantaged accounts”, plus the two graphics - Taxes
 “RMDs up to $100K” is linked to inflation I think, so it may change - Taxes
 Threshold for condition (b) under “Estimated tax payments” header, although I don’t think it’s linked to inflation - Taxes
+Hyperlink comparing DFREX to VGSIX will become outdated in 2023 - Advanced
 -->

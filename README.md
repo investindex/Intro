@@ -54,6 +54,7 @@ Monthly to Semi-annually
 US Treasury savings bond variable and fixed rates (October and April) - Risk
 S&P index market cap thresholds (changed one or a few times per year) - Portfolio
 FTSE index allocation to US, DM, EM under “Implementation” header - Portfolio
+Verify that E-Trade still offers those mutual funds as NTF - Practical
 
 Annually
 Footnote 2 with SPIVA reports, which are published every March - Index

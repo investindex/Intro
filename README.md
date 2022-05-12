@@ -30,11 +30,11 @@ All sections:
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 11 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 10 min
-* [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 2 min
-* [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start
+* [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 3 min
+* [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start | 9 min
 * [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to use tax-advantaged accounts
-* [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know
-* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics
+* [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know | 3 min
+* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics | 40 min
 
 &nbsp;
 

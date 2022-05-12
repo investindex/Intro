@@ -25,7 +25,7 @@ All sections:
 * [Cover page](https://github.com/investindex/Intro) - you are here | 2 min
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing | 12 min
 * [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 24 min
-* [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part
+* [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 3 min
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general personal finance and investing topics
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds

@@ -27,7 +27,7 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 24 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 3 min
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - general personal finance and investing topics
-* [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning
+* [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions
 * [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors

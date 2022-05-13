@@ -33,9 +33,9 @@ All sections:
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 10 min
 * [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 3 min
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start | 9 min
-* [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to use tax-advantaged accounts
+* [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to use tax-advantaged accounts | 28 min
 * [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know | 3 min
-* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics | 40 min
+* [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics | 45 min
 
 &nbsp;
 

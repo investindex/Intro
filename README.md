@@ -62,6 +62,7 @@ Footnote 2 with SPIVA reports, which are published every March - Index
 Plot of “US Stock and Bond Returns in Calendar Years 2000-2021” - Risk
 Names of large bond issuers (Microsoft, Bank of America, Boeing) - Risk
 Contribution limits under subheader “529 accounts, contribution limits, and charity” - TaxAdv
+RMD example for those born in 1950 - TaxAdv
 Value vs. growth in 2022 - Portfolio
 Potentially use Ken French library to update Ben Felix’s whitepaper - Portfolio
 Potentially update 2012-2021 returns, cited as 16% - Portfolio

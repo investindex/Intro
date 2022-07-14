@@ -23,8 +23,8 @@ You can see the descriptions of each section below, as well as my estimate of ho
 All sections:
 
 * [Cover page](https://github.com/investindex/Intro) - you are here | 2 min
-* [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing | 12 min
-* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 24 min
+* [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing | 14 min
+* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 25 min
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 13 min
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min

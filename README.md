@@ -48,8 +48,8 @@ Costco market cap - Index
 Apple/Costco allocation in S&P 500 - Index
 Apple share price - Index
 SEC yields of VUSB and USHY - Risk
-ILTB and TLT drawdown since Aug 6/Aug 4 2020 - Risk
-AGG drawdown since Aug 6 2020 under “prediction machines” header - Risk
+BLV/TLT/EDV drawdown since Aug 2020 - Risk
+BND drawdown since Aug 6 2020 under “prediction machines” header - Risk
 
 Monthly to Semi-annually
 US Treasury savings bond variable and fixed rates (October and April) - Risk

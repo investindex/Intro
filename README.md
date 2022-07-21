@@ -50,6 +50,7 @@ Apple share price - Index
 SEC yields of VUSB and USHY - Risk
 BLV/TLT/EDV drawdown since Aug 2020 - Risk
 BND drawdown since Aug 6 2020 under “prediction machines” header - Risk
+VTI/growth stock drawdowns in 2022 - Portfolio
 
 Monthly to Semi-annually
 US Treasury savings bond variable and fixed rates (October and April) - Risk

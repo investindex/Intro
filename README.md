@@ -27,8 +27,8 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 24 min
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 16 min
+* [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min\
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 13 min
-* [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 11 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 10 min
 * [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 3 min
@@ -62,7 +62,7 @@ Annually
 Footnote 2 with SPIVA reports, which are published every March - Index
 Plot of “US Stock and Bond Returns in Calendar Years 2000-2021” - Risk
 Names of large bond issuers (Microsoft, Bank of America, Boeing) - Risk
-Contribution limits under subheader “529 accounts, contribution limits, and charity” - TaxAdv
+Contribution limits - TaxAdv
 RMD example for those born in 1950 - TaxAdv
 Value vs. growth in 2022 - Portfolio
 Potentially use Ken French library to update Ben Felix’s whitepaper - Portfolio
@@ -71,7 +71,7 @@ Check all expense ratios - Fund
 “VTI’s 4,100 stocks” under “Tax loss harvesting” header - Taxes
 Hyperlink from “highly similar” to VTI/SCHX returns up to present, will become outdated in 2023 - Taxes
 Many 2022 tax numbers in “Essentials” and “Tax-advantaged accounts”, plus the two graphics - Taxes
-“RMDs up to $100K” is linked to inflation I think, so it may change - Taxes
+“RMDs up to $100K" might(?) be linked to inflation, so it may change - Taxes
 Threshold for condition (b) under “Estimated tax payments” header, although I don’t think it’s linked to inflation - Taxes
 Hyperlink comparing DFREX to VGSIX will become outdated in 2023 - Advanced
 -->

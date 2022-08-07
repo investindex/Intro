@@ -26,7 +26,7 @@ All sections:
 
 * [Cover page](https://github.com/investindex/Intro) - you are here | 2 min
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing | 14 min
-* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 18 min
+* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 17 min
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 18 min
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min

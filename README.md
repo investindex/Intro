@@ -33,7 +33,7 @@ All sections:
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 13 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 11 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 10 min
-* [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 6 min
+* [Advice](https://github.com/investindex/Advice) - seeking professional financial advice | 6 min
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start | 14 min
 * [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to invest with taxes in mind | 34 min
 * [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know | 5 min

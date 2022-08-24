@@ -36,7 +36,7 @@ All sections:
 * [Concerns for the small/large investor](https://github.com/investindex/Small) - advice particularly for small or large investors | 3 min
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start | 14 min
 * [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to invest with taxes in mind | 34 min
-* [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know | 3 min
+* [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of what you need to know | 5 min
 * [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics | 45 min
 
 &nbsp;

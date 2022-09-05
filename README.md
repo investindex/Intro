@@ -30,7 +30,7 @@ All sections:
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 18 min
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 13 min
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 16 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 11 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 10 min
 * [Advice](https://github.com/investindex/Advice) - seeking professional financial advice | 5 min
@@ -49,7 +49,7 @@ Apple market cap - Index
 Costco market cap - Index
 Apple/Costco allocation in S&P 500 - Index
 Apple share price - Index
-SEC yields of VUSB and USHY - Risk
+Yields of SGOV and SPHY - Risk
 BLV/TLT/EDV drawdown since Aug 2020 - Risk
 BND drawdown since Aug 6 2020 under “prediction machines” header - Risk
 VTI/growth stock drawdowns in 2022 - Portfolio

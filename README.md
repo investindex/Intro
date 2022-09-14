@@ -26,7 +26,7 @@ All sections:
 
 * [Cover page](https://github.com/investindex/Intro) - you are here | 2 min
 * [Introduction to index funds](https://github.com/investindex/Index) - the most important vehicle for long-term investing | 14 min
-* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 17 min
+* [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 20 min
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 18 min
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
@@ -35,7 +35,7 @@ All sections:
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 19 min
 * [Advice](https://github.com/investindex/Advice) - seeking professional financial advice | 5 min
 * [Practical information for execution](https://github.com/investindex/Practical) - gritty details to read before you start | 14 min
-* [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to invest with taxes in mind | 34 min
+* [Taxes](https://github.com/investindex/Taxes) - how taxes work and how to invest with taxes in mind | 36 min
 * [Vocabulary and further resources](https://github.com/investindex/Vocab) - an organized list of resources and what you need to know | 5 min
 * [Advanced topics](https://github.com/investindex/Advanced) - for informed investors with mastery of the basics | 45 min
 

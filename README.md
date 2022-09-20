@@ -5,8 +5,8 @@ The goal here is a practical explanation of how a US citizen can invest money wi
 This document will attempt to resolve those obstacles with concrete explanations and suggestions. It's important to understand:
 
 * The investments available to you as well as their risks and possible returns.
-* The different types of accounts in which you can invest, and the rules of retirement accounts and others.
 * The psychological challenges of investing, and how to navigate them.
+* The different types of accounts in which you can invest, and the rules of retirement accounts and others.
 * How taxes influence rational investing.
 * How investing interacts with other parts of personal finance, such as paying debt, saving and budgeting, insurance, housing, estate planning, and financial independence/retirement.
 

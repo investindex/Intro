@@ -24,7 +24,7 @@ Before you begin reading, you may want to start with some introductory material.
 
 [This video](https://www.youtube.com/watch?v=we_7F5N3ByQ) is a great explanation of the principles of financial markets and the approach to investing that will be applied here. Even those with some knowledge about investing will benefit from the discussion.
 
-You can see the descriptions of each section below, as well as my estimate of how long each section takes to read at a slow speed suitable for processing new concepts. Throughout the guide, many hyperlinks to accessible resources are included to make it easy to learn more than is presented in the text. You may want to click on them as you read, or return to them afterward. The time estimates include only the main text, and not the time taken to click to the hyperlinks or read the footnotes. The current total, excluding the advanced topics, is about 3 hours.
+You can see the descriptions of each section below, as well as my estimate of how long each section takes to read at a slow speed suitable for processing new concepts. Throughout the guide, many hyperlinks to accessible resources are included to make it easy to learn more than is presented in the text. You may want to click on them as you read, or return to them afterward. The time estimates include only the main text, and not the time taken to click to the hyperlinks or read the footnotes. The total, excluding the advanced topics, is a little over 3 hours.
 
 The author can be reached at rjwthree@duck.com.
 
@@ -42,7 +42,7 @@ All sections:
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 19 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 18 min
 * [Investing for retirement](https://github.com/investindex/Retirement) - mathematics for retirement planning | 11 min
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 16 min
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines) - personal finance and investing topics | 21 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 11 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 19 min
 * [Advice](https://github.com/investindex/Advice) - seeking professional financial advice | 5 min

@@ -8,7 +8,7 @@ This document will attempt to resolve those obstacles with concrete explanations
 * The psychological challenges of investing, and how to navigate them.
 * The different types of accounts in which you can invest, and the rules of retirement accounts and others.
 * How taxes influence rational investing.
-* How investing interacts with other parts of personal finance, such as paying debt, saving and budgeting, insurance, housing, estate planning, and financial independence/retirement.
+* How investing interacts with other parts of personal finance, such as paying debt, saving and budgeting, insurance, housing, fraud prevention, estate planning, and financial independence/retirement.
 
 At the end is a [list of resources and important vocabulary](https://github.com/investindex/Vocab) with links, which provides an overarching summary of the concepts you should understand before you start investing.
 

@@ -62,9 +62,8 @@ Costco market cap - Index
 Apple/Costco allocation in S&P 500 - Index
 Apple share price - Index
 Yields of SGOV and SPHY - Risk
-BLV/TLT/EDV drawdown since Aug 2020 - Risk
-BND drawdown since Aug 6 2020 under “prediction machines” header - Risk
-VTI/growth stock drawdowns in 2022 - Portfolio
+Bond fund drawdowns since 2020 - Risk
+VTI/growth stock drawdowns in 2022, plus the footnote - Portfolio
 
 Monthly to Semi-annually
 US Treasury savings bond variable and fixed rates (October and April) - Risk
@@ -87,5 +86,5 @@ Hyperlink from “highly similar” to VTI/SCHX returns up to present, will beco
 Many 2022 tax numbers in “Essentials” and “Tax-advantaged accounts”, plus the two graphics - Taxes
 “RMDs up to $100K" might(?) be linked to inflation, so it may change - Taxes
 Threshold for condition (b) under “Estimated tax payments” header, although I don’t think it’s linked to inflation - Taxes
-Hyperlink comparing DFREX to VGSIX will become outdated in 2023 - Advanced
+Hyperlink comparing DFREX to VGSIX and hyperlink for VRLIX/VT "highly correlated" will become outdated in 2023 - Advanced
 -->

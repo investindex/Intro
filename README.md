@@ -41,7 +41,7 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk) - how bonds work, and the risks of different investments | 20 min
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv) - intro to tax-advantaged investing | 20 min
 * [Your psychology](https://github.com/investindex/Psychology) - enforcing your own rational behavior is the hardest part | 18 min
-* [Investing for retirement](https://github.com/investindex/Retirement) - investing for and during retirement | 16 min
+* [Investing for retirement](https://github.com/investindex/Retirement) - how to invest for and during retirement | 16 min
 * [Guidelines for personal finance](https://github.com/investindex/Guidelines) - rent vs. buy, paying debt, estate planning, and other topics | 34 min
 * [Building a stock portfolio](https://github.com/investindex/Portfolio) - how to think about selecting stock funds | 15 min
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md) - specific portfolio suggestions | 19 min

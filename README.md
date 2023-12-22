@@ -26,7 +26,7 @@ Before you begin reading, you may want to start with some introductory material.
 
 You can see the descriptions of each section below, as well as my estimate of how long each section takes to read at a slow speed suitable for processing new concepts. Throughout the guide, many hyperlinks to accessible resources are included to make it easy to learn more than is presented in the text. You may want to click on them as you read, or return to them afterward. The time estimates include only the main text, and not the time taken to click to the hyperlinks or read the footnotes. The total, excluding the advanced topics, is three hours and change.
 
-The author can be reached at bright.tulip711@simplelogin.com (random alias, not my actual email).
+The author can be reached at bright.tulip711@simplelogin.com (random alias to avoid spam, not my main email).
 
 &nbsp;
 

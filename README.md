@@ -12,10 +12,6 @@ This document will attempt to resolve those obstacles with concrete explanations
 
 At the end is a [list of resources and important vocabulary](https://github.com/investindex/Vocab) with links, which provides an overarching summary of the concepts you should understand before you start investing.
 
-<!--
-for investment. It will explore how individuals can personalize their distribution of investments along the [spectrum of low to high risk](https://github.com/investindex/Risk). Specific topics like [planning for retirement](https://github.com/investindex/Retirement) and [tax-advantaged accounts](https://github.com/investindex/TaxAdv) are covered. At the end is a [list of resources and important vocabulary](https://github.com/investindex/Vocab) with links. This document doesn’t contain every granular piece of information you might need, so the list is intended to provide an idea of the concepts you should understand before you start.
--->
-
 &nbsp;
 
 Before you begin reading, you may want to start with some introductory material.

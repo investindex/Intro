@@ -24,7 +24,7 @@ You can see the descriptions of each section below, as well as my estimate of ho
 
 &nbsp;
 
-I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free.
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
 
 The author can be reached at bright.tulip711@simplelogin.com (random alias to avoid spam, not my main email).
 
